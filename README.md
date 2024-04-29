@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **marcus.yks27@gmail.com**
 
-- 📄 Know about my experiences [marcusyks.github.io (still building!)](marcusyks.github.io (still building!))
+- 📄 Know about my experiences [marcusyks-github-io.vercel.app](marcusyks.github.io (still building!))
 
 - ⚡ Fun fact **I dare say I have the best dad jokes out there**
 
