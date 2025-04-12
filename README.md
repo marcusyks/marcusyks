@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Marcus</h1>
-<h3 align="center">Aspiring software developer from Singapore</h3>
+<h3 align="center">Aspiring software engineer from Singapore</h3>
 
-[//]: # "- 🔭 I’m currently working on [LinkedIn Web Scraper](https://github.com/marcusyks/linkedin_web_scraper)"
-
-- 🌱 I’m currently learning **Pytorch, Tensorflow, OpenCV**
+[//]: # "- 🔭 I’m currently working on [Quick Clash](https://github.com/marcusyks/quick-clash)"
 
 - 📫 How to reach me **marcus.yks27@gmail.com**
 
