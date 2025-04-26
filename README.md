@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Marcus</h1>
 <h3 align="center">Aspiring software engineer from Singapore</h3>
 
-[//]: # "- 🔭 I’m currently working on [Quick Clash](https://github.com/marcusyks/quick-clash)"
+[//]: # - 🔭 I’m currently learning **C#** and **ASP.net**
 
 - 📫 How to reach me **marcus.yks27@gmail.com**
 
